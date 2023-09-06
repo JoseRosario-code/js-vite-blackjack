@@ -1,0 +1,6 @@
+# BLACKJACK VITE
+
+NUEVO README 
+
+
+"hola npm"
